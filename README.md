@@ -1,28 +1,47 @@
-# Adonis API application
+<h1 align="center">Welcome to gonode 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/gonode" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/gonode.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/natanaelvich" target="_blank">
+    <img alt="Twitter: natanaelvich" src="https://img.shields.io/twitter/follow/natanaelvich.svg?style=social" />
+  </a>
+</p>
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+> example api resful adonis js
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+## Install
 
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
+```sh
+yarn
 ```
 
-or manually clone the repo and then run `npm install`.
+## Usage
 
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
+```sh
+adonis serve --dev
 ```
+
+## Run tests
+
+```sh
+yarn run test
+```
+
+## Author
+
+👤 **natanaelvich**
+
+* Website: facebook.com/natanael.lima.99
+* Twitter: [@natanaelvich](https://twitter.com/natanaelvich)
+* Github: [@natanaelvich](https://github.com/natanaelvich)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
