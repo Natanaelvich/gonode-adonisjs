@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to gonode 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/gonode" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/gonode.svg">
-  </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -42,6 +39,3 @@ yarn run test
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
